@@ -31,7 +31,7 @@ Passionate **full-stack developer** with **100+ completed projects** and a missi
 ### 📊 GitHub Stats – The Developer's Legacy  
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anamika-nandi&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true" />
+
   <br />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anamika-nandi&theme=github-dark" />
   <br />
