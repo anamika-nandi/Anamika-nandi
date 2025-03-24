@@ -15,7 +15,7 @@ Passionate **full-stack developer** with **100+ completed projects** and a missi
 ### 🛠️ Tech Arsenal & Superpowers  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,express,nodejs,mongodb,firebase,python,tensorflow,openai,git,github,vercel,linux,postgresql,docker,redis,graphql,aws" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,express,nodejs,mongodb,firebase,python,tensorflow,git,github,vercel,linux,postgresql,docker,redis,graphql,aws" />
 </p>
 
 🚀 **Specialties:**
