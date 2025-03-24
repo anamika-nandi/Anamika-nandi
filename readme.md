@@ -1,30 +1,29 @@
 ## Hey 👋, I'm [Anamika Nandi](https://github.com/anamika-nandi/)
 
-Working as Freelance Developer on Fiverr. Almost Done 20+ Project On Fiverr (Level 1 Seller).
-My goal is to develop such app or lib that helps lot of users world wide
+### 🚀 About Me  
+I'm a **Level 2 Seller on Fiverr** with **100+ completed projects**, specializing in **MERN Stack and AI-based applications**. My goal is to develop apps and libraries that help users worldwide.  
 
-### More About Me:
+- 🔬 Always learning and exploring new technologies.  
+- 🌟 Passionate about writing clean and efficient code.  
+- 💬 Ask me anything! I'm happy to help.  
+- 📧 Connect with me on **[LinkedIn](https://www.linkedin.com/in/anamika-nandi/)**  
 
-- 🔭 I’m currently currently learning New Skills
-- 🌱 My Goal is to write clean code and effecient code.
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me:[Linkdin](https://www.linkedin.com/in/anamika-nandi/)
+---
 
-### Languages and Tools:
+### 🛠️ Technologies & Tools  
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/express/express.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,express,nodejs,mongodb,firebase,python,tensorflow,openai,git,github,vercel,linux,postgresql" />
+</p>
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+---
+
+### 📊 GitHub Stats  
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anamika-nandi&theme=gotham&show_icons=true&include_all_commits=true" />
-</p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anamika-nandi&theme=github_dark&show_icons=true&include_all_commits=true" />
+  <br />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anamika-nandi&theme=github-dark" />
+</p>  
+
+---
